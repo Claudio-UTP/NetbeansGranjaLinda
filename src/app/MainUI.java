@@ -7,9 +7,7 @@ public class MainUI {
        
         System.out.println("Hola Mundo");
         System.out.println("Tardes Mundo");
-        System.out.println("Adios Mundo");       
-        System.out.println("SU LOL");
-        System.out.println("Adios Mundo :v");  
+
     }
     
 }
